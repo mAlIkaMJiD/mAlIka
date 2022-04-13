@@ -35,7 +35,7 @@ termux-setup-storage
 
 rm -rf mAlIk
 
-git clone https://github.com/
+git clone https://github.com/mAlIkaMJiD/mAlIka
 
 cd file
 
